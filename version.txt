@@ -1,0 +1,1 @@
+eeacms/clms-ogcproxy:v1.0.0
