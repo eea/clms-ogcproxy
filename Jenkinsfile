@@ -7,7 +7,7 @@ pipeline {
 
   environment {
     GIT_NAME = "clms-ogcproxy"
-    registry = "eeacms/lms-ogcproxy"
+    registry = "eeacms/clms-ogcproxy"
   }
   
   stages {
