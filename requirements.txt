@@ -1,6 +1,5 @@
 fastapi
 uvicorn[standard]
-httpcore[asyncio]
-dnspython
+httpx
 redis
 gunicorn
